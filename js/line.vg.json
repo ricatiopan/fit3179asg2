@@ -1,0 +1,16 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 450,
+    "title": "Suicide Rates over the Years",
+    "data": {"url": "https://raw.githubusercontent.com/ricatiopan/fit3179asg2/main/data/gender.csv"},
+    
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "Year", "type": "temporal"},
+      "y": {"field": "Rate", "type": "quantitative"},
+      "color": {"field": "Persons", "type": "nominal"}
+    }
+  }
+
+
+  
