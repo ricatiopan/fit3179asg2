@@ -7,7 +7,19 @@
       "url": "https://raw.githubusercontent.com/ricatiopan/fit3179asg2/main/js/SA3_2016_AUST.json",
       "format": {"type": "topojson", "feature": "SA3_2016_AUST"}
     },
-   
+    "params": [
+  {
+      "name": "zoom_level",
+      "value": 30000,
+      "bind": {
+          "input": "range",
+          "min": 3500,
+          "max": 60000,
+          "step": 100,
+          "name": "Zoom: "
+      }
+  }
+],
     "transform": [
       {
         "lookup": "properties.SA3_NAME16",
@@ -20,7 +32,8 @@
         }
       }
     ],
-    "projection": {"type": "equirectangular"},
+    "projection": {"type": "equirectangular",
+      "scale": { "expr": "zoom_level" }},
     "mark": {"type": "geoshape"},
     "encoding": {
       "color": {
