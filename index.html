@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Australia's Suicide Rate</title>
+  <title>Multiple Visualisations | An Example</title>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
@@ -33,7 +33,7 @@
   <!-- end pure grid group -->
 
     <!-- pure grid group -->
-    <div class="pure-g">
+    <!-- <div class="pure-g">
         <div class="pure-u-1-3">
           <div class="description description-left">
             <h2>This is the first section</h2>
@@ -43,8 +43,14 @@
         <div class="pure-u-2-3">
           <div id="vis1" class="vis-container"></div>
         </div>
-    </div>
+    </div> -->
     <!-- end pure grid group -->
+
+    <div>
+      <h2>This is the first section</h2>
+      <p>The first column is used for description while the next two columns are merged and used for visualisation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. </p>
+    </div>
+    <div id="vis1" class="vis-container"></div>
 
     <!-- pure grid group -->
     <div class="pure-g">
@@ -77,7 +83,7 @@
     <!-- end pure grid group -->
 
     <!-- pure grid group -->
-    <div class="pure-g">
+    <!-- <div class="pure-g">
         <div class="pure-u-3-4">
             <div id="vis4"  class="vis-container"></div>
           </div>
@@ -89,8 +95,14 @@
         </div>
         
       
-      </div>
+      </div> -->
     <!-- end pure grid group -->
+
+    <div>
+      <h2>This is the fourth section</h2>
+      <p>The first column is used for description while the next two columns are merged and used for visualisation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. </p>
+    </div>
+    <div id="vis4" class="vis-container"></div>
   
     <div class="pure-g">
       <div class="pure-u-1-1 small-font">
@@ -105,7 +117,7 @@
   var specVis1 = "./js/line.vg.json";
   var specVis2= "./js/heatmap.vg.json";
   var specVis3 = "./js/pie.vg.json";
-  var specVis4= "./js/map.vg.json";
+  var specVis4= "./js/newmap.vg.json";
 
   vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
