@@ -1,5 +1,4 @@
 Year,Count,Types,Percentage
-1994,364,Solids and liquids,0.1592997812
 1995,388,Solids and liquids,0.1641285956
 1996,366,Solids and liquids,0.1510524144
 1997,340,Solids and liquids,0.1284472988
@@ -21,9 +20,6 @@ Year,Count,Types,Percentage
 2013,423,Solids and liquids,0.1593220339
 2014,452,Solids and liquids,0.1565639072
 2015,501,Solids and liquids,0.1634050881
-2016,466,Solids and liquids,0.1575921542
-2017,478,Solids and liquids,0.1475308642
-1994,468,Gases,0.2048140044
 1995,524,Gases,0.2216582064
 1996,540,Gases,0.2228642179
 1997,602,Gases,0.2274272762
@@ -45,9 +41,6 @@ Year,Count,Types,Percentage
 2013,177,Gases,0.6666666667,
 2014,174,Gases,0.6027017665,
 2015,193,Gases,0.6294846706,
-2016,145,Gases,0.4903618532,
-2017,160,Gases,0.4938271605,
-1994,664,Hanging,0.2905908096,
 1995,695,Hanging,0.2939932318,
 1996,809,Hanging,0.3338836154,
 1997,1000,Hanging,0.377786173,
@@ -69,9 +62,6 @@ Year,Count,Types,Percentage
 2013,1425,Hanging,0.5367231638,
 2014,1636,Hanging,0.5666782127,
 2015,1685,Hanging,0.5495759948,
-2016,1630,Hanging,0.5512343591,
-2017,1897,Hanging,0.5854938272,
-1994,67,Drowning,0.2932166302,
 1995,65,Drowning,0.2749576988,
 1996,44,Drowning,0.1815930664,
 1997,76,Drowning,0.2871174915,
@@ -93,9 +83,6 @@ Year,Count,Types,Percentage
 2013,59,Drowning,0.2222222222,
 2014,50,Drowning,0.1731901628,
 2015,59,Drowning,0.1924331376,
-2016,72,Drowning,0.2434900237,
-2017,61,Drowning,0.1882716049,
-1994,412,Firearms,0.1803063457,
 1995,394,Firearms,0.1666666667,
 1996,391,Firearms,0.1613702022,
 1997,297,Firearms,0.1122024934,
@@ -117,9 +104,6 @@ Year,Count,Types,Percentage
 2013,168,Firearms,0.6327683616,
 2014,177,Firearms,0.6130931763,
 2015,184,Firearms,0.6001304631,
-2016,188,Firearms,0.6357795063,
-2017,175,Firearms,0.5401234568,
-1994,41,Sharp objects,0.1794310722,
 1995,41,Sharp objects,0.1734348562,
 1996,40,Sharp objects,0.1650846059,
 1997,46,Sharp objects,0.1737816396,
@@ -141,9 +125,6 @@ Year,Count,Types,Percentage
 2013,81,Sharp objects,0.3050847458,
 2014,81,Sharp objects,0.2805680637,
 2015,98,Sharp objects,0.3196347032,
-2016,100,Sharp objects,0.3381805884,
-2017,98,Sharp objects,0.3024691358,
-1994,121,Jumping from a height,0.5295404814,
 1995,105,Jumping from a height,0.4441624365,
 1996,101,Jumping from a height,0.4168386298,
 1997,117,Jumping from a height,0.4420098224,
@@ -165,9 +146,6 @@ Year,Count,Types,Percentage
 2013,142,Jumping from a height,0.5348399247,
 2014,139,Jumping from a height,0.4814686526,
 2015,140,Jumping from a height,0.4566210046,
-2016,153,Jumping from a height,0.5174163003,
-2017,164,Jumping from a height,0.5061728395,
-1994,78,Jumping before a moving vehicle,0.341356674,
 1995,92,Jumping before a moving vehicle,0.3891708968,
 1996,82,Jumping before a moving vehicle,0.338423442,
 1997,91,Jumping before a moving vehicle,0.3437854175,
@@ -189,9 +167,6 @@ Year,Count,Types,Percentage
 2013,91,Jumping before a moving vehicle,0.3427495292,
 2014,98,Jumping before a moving vehicle,0.3394527191,
 2015,107,Jumping before a moving vehicle,0.3489889106,
-2016,97,Jumping before a moving vehicle,0.3280351708,
-2017,100,Jumping before a moving vehicle,0.3086419753,
-1994,50,Crashing of motor vehicle,0.2188183807,
 1995,14,Crashing of motor vehicle,0.0592216582,
 1996,11,Crashing of motor vehicle,0.0453982666,
 1997,11,Crashing of motor vehicle,0.041556479,
@@ -213,9 +188,6 @@ Year,Count,Types,Percentage
 2013,25,Crashing of motor vehicle,0.0941619586,
 2014,31,Crashing of motor vehicle,0.1073779009,
 2015,40,Crashing of motor vehicle,0.1304631442,
-2016,49,Crashing of motor vehicle,0.1657084883,
-2017,48,Crashing of motor vehicle,0.1481481481,
-1994,55,Other and unspecified,0.2407002188,
 1995,46,Other and unspecified,0.1945854484,
 1996,39,Other and unspecified,0.1609574907,
 1997,67,Other and unspecified,0.2531167359,
@@ -237,5 +209,3 @@ Year,Count,Types,Percentage
 2013,64,Other and unspecified,0.2410546139,
 2014,49,Other and unspecified,0.1697263595,
 2015,59,Other and unspecified,0.1924331376,
-2016,57,Other and unspecified,0.1927629354,
-2017,59,Other and unspecified,0.1820987654,
